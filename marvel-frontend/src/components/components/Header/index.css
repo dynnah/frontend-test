@@ -1,0 +1,25 @@
+header {
+    text-align: center;
+}
+
+h2, p {
+    text-align: center;
+    font-family: 'Work Sans', sans-serif;
+    margin-bottom: 2px;
+}
+
+h2 {
+    color: #404040;
+}
+
+p {
+    color: #8c8c8c;
+}
+
+svg {
+    position: relative;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+}

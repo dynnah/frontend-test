@@ -1,0 +1,30 @@
+.searchbar {
+    background-color: #FDECEC;
+    width: 50%;
+    margin: auto;
+    margin-top: 25px;
+    border-radius: 40px;
+    border: none;
+    padding: 20px 20px 20px 50px;
+}
+
+.search-input {
+    border: none;
+    background-color: #FDECEC;
+    text-align: left;
+    margin-left: 20px;
+    font-size: 20px;
+    height: 1.1em;
+    width: 80%; 
+}
+
+input:focus{
+    outline: none;
+}
+
+::placeholder {
+    color: #ff1510;
+    border: none;
+}
+
+
