@@ -2,17 +2,17 @@ header {
     text-align: center;
 }
 
-h2, p {
+h2 {
     text-align: center;
     font-family: 'Work Sans', sans-serif;
     margin-bottom: 2px;
-}
-
-h2 {
     color: #404040;
 }
 
-p {
+.tagline {
+    text-align: center;
+    font-family: 'Work Sans', sans-serif;
+    margin-bottom: 2px;
     color: #8c8c8c;
 }
 
